@@ -1,0 +1,13 @@
+.row {
+  background-color: yellow;
+}
+
+.col {
+  border: solid 0.5px black;
+}
+
+.fa {
+    font-size: 60px;
+    padding: 10px;
+    border: none;
+}
