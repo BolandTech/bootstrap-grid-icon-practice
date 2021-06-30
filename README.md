@@ -1,6 +1,8 @@
 # Bootstrap Nested Grid & Icons Practice
 
-![Initial Icons](https://github.com/upperlinecode/bootstrap-grid-icon-practice/blob/master/icons_start.png?raw=true)
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/bootstrap-grid-icon-practice)](https://repl.it/github/upperlinecode/bootstrap-grid-icon-practice)
+
+![Initial Icons](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/icons_start.png)
 
 ## The Goal
 In this lab, you will practice various complex layouts to build up the crucial skill of nesting rows and columns. You'll also gain comfort using Font Awesome Icons, which provide important visual cues to users.
