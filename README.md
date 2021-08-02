@@ -14,7 +14,7 @@ In this lab, you will practice various complex layouts to build up the crucial s
 3. Open the file `index.html` and preview it. You should see something that looks a lot like the photo above. It is worth noting that every row has a yellow background and every column has a black outline.
 
 ## The Lab
-For each of the following challenges, you may change any of the row or column divs you see in index.html. Note that white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row.
+For each of the following challenges, you may change any of the row or column divs you see in `index.html`. Your goal is to use Bootstrap classes to replicate the image styling you see below. Note that in these examples: white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row. You'll need to use Bootstrap classes to incorporate this white space as you work through the challenges. 
 
 ### Challenge 1
 ![Challenge1](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/challenge1.png)
