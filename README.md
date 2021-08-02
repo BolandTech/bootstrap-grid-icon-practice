@@ -16,6 +16,11 @@ In this lab, you will practice various complex layouts to build up the crucial s
 ## The Lab
 For each of the following challenges, you may change any of the row or column divs you see in `index.html`. Your goal is to use Bootstrap classes to replicate the image styling you see below. Note that in these examples: white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row. You'll need to use Bootstrap classes to incorporate this white space as you work through the challenges. 
 
+Here are a few additional points to keep in mind as you get started:
+* There is some pre-built CSS loaded into your stylesheet to get you started. Currently, the CSS for the `.col` class won't affect the styling because initially no HTML elements have the `.col` class. Once you use this class in your HTML, you will see it's CSS take effect.
+* We've set the default size for each column using the `.col-12` class. Play around with the number 12 to resize your columns. In Bootstrap, grids can contain between 1 and 12 columns per row. 
+* You will need make custom changes to the CSS for each new challenge, and this will cause you to loose the CSS that you've already added. Please screenshot your page after each challenge to save and track your progress. 
+
 ### Challenge 1
 ![Challenge1](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/challenge1.png)
 ### Challenge 2
