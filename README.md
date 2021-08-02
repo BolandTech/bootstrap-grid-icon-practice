@@ -2,7 +2,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/upperlinecode/bootstrap-grid-icon-practice)](https://repl.it/github/upperlinecode/bootstrap-grid-icon-practice)
 
-![Initial Icons](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/icons_start.png)
+![Initial Icons](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/new_icon_start.png)
 
 ## The Goal
 In this lab, you will practice various complex layouts to build up the crucial skill of nesting rows and columns. You'll also gain comfort using Font Awesome Icons, which provide important visual cues to users.
@@ -11,7 +11,7 @@ In this lab, you will practice various complex layouts to build up the crucial s
 
 1. Clone this repository using `git clone`
 2. `cd` into the `bootstrap-grid-icon` folder
-3. Open the file `index.html` and preview it. You should see something that looks a lot like the photo above. It is worth noting that every row has a yellow background and every column has a black outline.
+3. Open the file `index.html` and preview it. You should see something that looks a lot like the photo above. Note that the icons in the may not match the icons mentioned in the README. This is okay. The most important thing here is that you learn to recreate the grid layout, and add margins and columns to match the styling.
 
 ## The Lab
 For each of the following challenges, you may change any of the row or column divs you see in `index.html`. Your goal is to use Bootstrap classes to replicate the image styling you see below. Note that in these examples: white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row. You'll need to use Bootstrap classes to incorporate this white space as you work through the challenges. 
