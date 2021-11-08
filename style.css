@@ -1,13 +1,17 @@
+.em{
+  font-size: 60px;
+  padding: 10px;
+  border: none;
+}
+  
 .row {
-  background-color: yellow;
+  background-color: #56B4E9
 }
 
-.col {
+.emoji{
   border: solid 0.5px black;
-}
+} 
 
-.fab, .fas {
-    font-size: 60px;
-    padding: 10px;
-    border: none;
+body{
+  padding-top: 15px;
 }
