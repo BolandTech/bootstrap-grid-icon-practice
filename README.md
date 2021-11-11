@@ -2,7 +2,7 @@
 
 
 
-![Initial Icons](icon_start.png)
+![Initial Icons](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/icon_start.png)
 
 ## The Goal
 In this lab, you will practice various complex layouts to build up the crucial skill of determining column size within a grid.
@@ -21,15 +21,15 @@ Here are a few additional points to keep in mind as you get started:
 * Play around with the number 12 to resize your columns. In Bootstrap, grids can contain between 1 and 12 columns per row. 
 
 ### Challenge 1
-![Challenge1](challenge1.png)
+![Challenge1](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/challenge1.png)
 ### Challenge 2
-![Challenge2](challenge2.png)
+![Challenge2](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/challenge2.png)
 ### Challenge 3
-![Challenge3](challenge3.png)
+![Challenge3](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/challenge3.png)
 ### Challenge 4
-![Challenge4](challenge4.png)
+![Challenge4](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/challenge4.png)
 ### Challenge 5
-![Challenge5](challenge5.png)
+![Challenge5](https://raw.githubusercontent.com/upperlinecode/bootstrap-grid-icon-practice/main/challenge5.png)
 
 ### Stretch
 Once you've completed all of the challenges, check out the <a href="https://emoji-css.afeld.me/">Emoji Library</a>. Feel free to swap the icons for ones that you like and create your own challenge and swap with a friend!
